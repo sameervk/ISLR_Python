@@ -8,4 +8,4 @@ Book: An Introduction to Statistical Learning with Applications in R,
        
 Datasets downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv.
 
-![QDA](https://rawgithubusercontent.com/sameervk/ISLR_Python/Classification/QDA.png)
+![QDA](sameervk.github.com/ISLR_Python/Classification/QDA.png)
