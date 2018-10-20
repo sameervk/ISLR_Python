@@ -63,6 +63,7 @@ Predicting direction of stock market.
 Quadratic Discriminant Analysis Classification.
 Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
 No Cross Validation employed (yet).
+Plotting the training data after Classification.
 
 Problem statement from Chapter 4
 Book: An Introduction to Statistical Learning with Applications in R, 
