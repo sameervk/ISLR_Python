@@ -95,3 +95,4 @@ Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and conve
 
 Packages used: numpy, pandas, sklearn"""
 
+![KNN](KNN_k-5.png)
