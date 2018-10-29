@@ -1,3 +1,69 @@
+Smarket_K-Nearest-Neighbor:
+
+"""Author: Sameer Kesava
+
+Predicting direction of stock market.
+
+K-Nearest Neighbors Classifier using weights for the data points: 'uniform' and 'distances'.
+Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
+No Cross Validation employed (yet).
+Plotting the training data after Classification.
+
+Problem statement from Chapter 4
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn"""
+
+![KNN](KNN_k-5.png)
+
+----------
+
+Smarket_QDA_Classification:
+
+"""Author: Sameer Kesava
+
+Predicting direction of stock market.
+
+Quadratic Discriminant Analysis Classification.
+Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
+No Cross Validation employed (yet).
+Plotting the training data after Classification.
+
+Problem statement from Chapter 4
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn and scipy"""
+
+![QDA](QDA.png)
+      
+----------
+
+Smarket_LDA_Classification:
+
+"""Author: Sameer Kesava
+
+Predicting direction of stock market.
+
+Linear Discriminant Analysis Classification and deriving statistics.
+Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
+No Cross Validation employed (yet).
+
+Problem statement from Chapter 4
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn and scipy"""
+
+----------
+
 Smarket_Logistic_Reg_1:
 
 """Author: Sameer Kesava
@@ -35,64 +101,6 @@ Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and conve
 Packages used: numpy, pandas, sklearn and scipy"""
 
 ----------
-Smarket_LDA_Classification:
 
-"""Author: Sameer Kesava
 
-Predicting direction of stock market.
 
-Linear Discriminant Analysis Classification and deriving statistics.
-Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
-No Cross Validation employed (yet).
-
-Problem statement from Chapter 4
-Book: An Introduction to Statistical Learning with Applications in R, 
-       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-
-Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
-
-Packages used: numpy, pandas, sklearn and scipy"""
-
-----------
-Smarket_QDA_Classification:
-
-"""Author: Sameer Kesava
-
-Predicting direction of stock market.
-
-Quadratic Discriminant Analysis Classification.
-Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
-No Cross Validation employed (yet).
-Plotting the training data after Classification.
-
-Problem statement from Chapter 4
-Book: An Introduction to Statistical Learning with Applications in R, 
-       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-
-Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
-
-Packages used: numpy, pandas, sklearn and scipy"""
-
-![QDA](QDA.png)
-      
-----------
-Smarket_K-Nearest-Neighbor:
-
-"""Author: Sameer Kesava
-
-Predicting direction of stock market.
-
-K-Nearest Neighbors Classifier using weights for the data points: 'uniform' and 'distances'.
-Splitting the data into training set (data from years 2001 to 2004) and test set (2005 data). 
-No Cross Validation employed (yet).
-Plotting the training data after Classification.
-
-Problem statement from Chapter 4
-Book: An Introduction to Statistical Learning with Applications in R, 
-       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-
-Dataset: Smarket (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
-
-Packages used: numpy, pandas, sklearn"""
-
-![KNN](KNN_k-5.png)
