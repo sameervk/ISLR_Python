@@ -1,0 +1,60 @@
+k-fold-Validation_LinReg:
+
+""" 
+Linear Regression of Automobile Data 
+
+Scaling the data and employing k-Fold Cross Validation (k = 10).
+
+Plotting the test and fit data after Regression
+
+Problem statement from Chapter 5
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Auto (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn and matplotlib"""
+
+![k-fold][k_fold_CV_LinReg.png]
+
+-----
+
+Leave-One-Out-Validation_LinReg:
+
+"""
+Linear Regression of Automobile Data 
+
+Leave-One-Out Cross Validation
+
+Plotting the data set, fit and residuals after Regression
+
+Problem statement from Chapter 5
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Auto (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn and matplotlib"""
+
+-----
+
+ValidationSetApproach_LinReg:
+
+"""
+Linear Regression of Automobile Data.
+
+Cross Validation using Validation Set Approach.
+
+Plotting the test and fit data after Regression
+
+Problem statement from Chapter 5
+Book: An Introduction to Statistical Learning with Applications in R, 
+       Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+
+Dataset: Auto (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to csv)
+
+Packages used: numpy, pandas, sklearn and matplotlib"""
+
+![VSA][VSA_LinReg.png]
+
+-----
