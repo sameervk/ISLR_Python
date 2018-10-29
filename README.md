@@ -11,3 +11,5 @@ Datasets downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converted to c
 ![QDA](/Classification/QDA.png)
 
 ![QDA](/Classification/KNN_k-5.png)
+
+![kfold](/Cross_Validation/k-fold_CV_LinReg.png)
