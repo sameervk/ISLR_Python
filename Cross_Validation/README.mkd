@@ -15,7 +15,7 @@ Dataset: Auto (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converte
 
 Packages used: numpy, pandas, sklearn and matplotlib"""
 
-![k-fold][k_fold_CV_LinReg.png]
+![k-fold](k_fold_CV_LinReg.png)
 
 -----
 
@@ -55,6 +55,6 @@ Dataset: Auto (downloaded from https://www-bcf.usc.edu/~gareth/ISL/ and converte
 
 Packages used: numpy, pandas, sklearn and matplotlib"""
 
-![VSA][VSA_LinReg.png]
+![VSA](VSA_LinReg.png)
 
 -----
