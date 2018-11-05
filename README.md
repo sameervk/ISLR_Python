@@ -1,6 +1,7 @@
 # ISLR_Python
 Statistical Learning in Python using scikit-learn, pandas, numpy and plotting in matplotlib.
-Parallel Processing using Multiprocessing where applicable
+
+Parallel Processing using Multiprocessing where applicable.
 
 Problem statements from
 
